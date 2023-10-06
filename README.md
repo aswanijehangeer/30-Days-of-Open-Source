@@ -25,8 +25,8 @@ On the third of Open Source 101, we will prepare ourselves to make open source c
 ### Day 4: Version Control and Git
 Version control is an important aspect of open-source contribution as it simplifies collaboration on software projects. On Day 4, we will study version control tools such as Git and learn how to manage your repository.
 
-- [Demystifying The Differences Between Git & GitHub](https://depths.so/curation/6518133984caa05ea26a3852)
-- [Understanding Git (Local Repo) and GitHub (Remote Repo)](https://depths.so/curation/6518136c84caa05ea26a3855)
+- [Demystifying The Differences Between Git & GitHub](https://medium.com/edureka/git-vs-github-67c511d09d3e)
+- [Understanding Git (Local Repo) and GitHub (Remote Repo)](https://medium.com/swlh/git-local-repo-and-github-remote-repo-eae1c948fbf5)
 
 
 
@@ -34,11 +34,11 @@ Version control is an important aspect of open-source contribution as it simplif
 On Day 5, we will apply our version control knowledge in the context of an open-source project. We will learn how to fork the repository and contribute to it, as well as how to sync a fork with your local branch.
 
 - [How to fork a GitHub repository and contribute to an open source project ](https://sqldbawithabeard.com/2019/11/29/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/?utm_source=dlvr.it&utm_medium=facebook)
-- [Syncing a fork - GitHub Docs](https://depths.so/curation/651816593a053be4b83aa71a)
+- [Syncing a fork - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
 
 ### Day 6: Repository Management
 Once you forked the repository to your local git repository, you can start your development process. Here are some common practices to manage all the operations, including commit, branch, and so on.
 
-- [A Simplified Convention for Naming Branches and Commits in Git ](https://depths.so/curation/651840ad085fde9ea76aa2ed)
-- [Conventional Commits](https://depths.so/curation/65184bd66b0aeffb52c5bc02)
+- [A Simplified Convention for Naming Branches and Commits in Git ](https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
