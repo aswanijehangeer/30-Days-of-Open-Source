@@ -40,5 +40,5 @@ On Day 5, we will apply our version control knowledge in the context of an open-
 ### Day 6: Repository Management
 Once you forked the repository to your local git repository, you can start your development process. Here are some common practices to manage all the operations, including commit, branch, and so on.
 
-- []()
-- []()
+- [A Simplified Convention for Naming Branches and Commits in Git ](https://depths.so/curation/651840ad085fde9ea76aa2ed)
+- [Conventional Commits](https://depths.so/curation/65184bd66b0aeffb52c5bc02)
