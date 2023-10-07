@@ -42,3 +42,24 @@ Once you forked the repository to your local git repository, you can start your 
 
 - [A Simplified Convention for Naming Branches and Commits in Git ](https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+### Day 7: Breaking Down Giant Repository
+In a large project, beginners would often feel overwhelmed when looking at tons of configuration dotfile, endless nested folder structures, and so on. But you don’t need to understand every bit before you proceed to contribute. Here are some procedures to help you overcome a complex repository and make your first step.
+
+- [folder-structure · GitHub Topics](https://github.com/topics/folder-structure)
+- [How Do I Understand a Complex Codebase At Work?](https://www.youtube.com/watch?v=FErIfEd3IHI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
