@@ -49,10 +49,11 @@ In a large project, beginners would often feel overwhelmed when looking at tons 
 - [folder-structure · GitHub Topics](https://github.com/topics/folder-structure)
 - [How Do I Understand a Complex Codebase At Work?](https://www.youtube.com/watch?v=FErIfEd3IHI)
 
+### Day 8: Common Software Architecture
+Every project has its own standards on the project structure, development to deployment flow, and so on. But they get things in common. Get an overview so that you can understand different large projects quickly.
 
-
-
-
+- [Development, test, performance, staging, canary, production… environments](https://walmyrlimaesilv.medium.com/development-test-performance-staging-canary-production-environments-a26c03509fa8)
+- [Configuring issue templates for your repository - GitHub Docs](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
 
 
