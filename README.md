@@ -50,11 +50,23 @@ In a large project, beginners would often feel overwhelmed when looking at tons 
 - [How Do I Understand a Complex Codebase At Work?](https://www.youtube.com/watch?v=FErIfEd3IHI)
 
 ### Day 8: Common Software Architecture
-Every project has its own standards on the project structure, development to deployment flow, and so on. But they get things in common. Get an overview so that you can understand different large projects quickly.
+Every project has its own standards on the project structure, development to deployment flow, and so on. But they have things in common. Get an overview so that you can understand different large projects quickly.
 
 - [Development, test, performance, staging, canary, production… environments](https://walmyrlimaesilv.medium.com/development-test-performance-staging-canary-production-environments-a26c03509fa8)
 - [Configuring issue templates for your repository - GitHub Docs](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
+### Day 9: How Big Open Source Project Works
+
+On Day 9, we will delve into the topic of collaboration in large software projects. We will watch a video by Fireship that discusses a software development practice called 'Monorepos', and also read the official documentation of Next.js to understand how such large-scale projects operate.
+
+- [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://www.youtube.com/watch?v=9iU_IE6vnJ8&ab_channel=Fireship)
+- [How Next.js Works](https://nextjs.org/learn/foundations/how-nextjs-works)
+
+### Day 10: Best Practices in Open Source Contribution
+On Day 10, we will continue looking at some big open-source projects to understand how collaboration happens there. We will look into a popular area of open-source contribution this time: game development. Let’s learn what are the best practices preferred by Godot and Next.js.
+
+- [Best practices for engine contributors — Godot Engine (latest) documentation in English](https://docs.godotengine.org/en/latest/contributing/development/best_practices_for_engine_contributors.html)
+- [Community: Contribution Guide | Next.js](https://nextjs.org/docs/community/contribution-guide)
 
 
 
