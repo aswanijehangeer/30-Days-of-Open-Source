@@ -68,7 +68,11 @@ On Day 10, we will continue looking at some big open-source projects to understa
 - [Best practices for engine contributors — Godot Engine (latest) documentation in English](https://docs.godotengine.org/en/latest/contributing/development/best_practices_for_engine_contributors.html)
 - [Community: Contribution Guide | Next.js](https://nextjs.org/docs/community/contribution-guide)
 
+### Day 11: Setting up your environment
+After understanding how collaboration in open-source projects works, it is time to go back to our IDE. On Day 11, we will learn how to set up and optimize your development environment to get ready for contributing by reading official documentation from Visual Studio and also a blog by FreeCodeCamp on NVM (Node version manager).
 
+- [Working with JavaScript in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/working-with-javascript#_intellisense)
+- [Node Version Manager – NVM Install Guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
 
 
 
