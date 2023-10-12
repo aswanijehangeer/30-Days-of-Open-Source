@@ -80,7 +80,11 @@ Previously, we learned about the basics of setting up your development environme
 - [An introduction to the NPM package manager](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
 - [npm vs yarn vs pnpm vs bun commands cheatsheet - DEV Community](https://dev.to/equiman/npm-vs-yarn-vs-pnpm-commands-cheatsheet-3el8)
 
+### Day 13: Testing in Open Source Projects
+On Day 13, we will explore testing, an essential topic in contributing to open-source projects. We will read a guide on how to write unit tests with Jest and examine a real-world example repository to apply what we have learned.
 
+- [A Beginner's Guide to Unit-testing with Jest - DEV Community](https://dev.to/dsasse07/a-beginner-s-guide-to-unit-testing-with-jest-45cc)
+- [next-auth/packages/adapter-drizzle at main · nextauthjs/next-auth](https://github.com/nextauthjs/next-auth/tree/main/packages/adapter-drizzle)
 
 
 
