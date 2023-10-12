@@ -74,7 +74,11 @@ After understanding how collaboration in open-source projects works, it is time 
 - [Working with JavaScript in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/working-with-javascript#_intellisense)
 - [Node Version Manager – NVM Install Guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
 
+### Day 12: More on the Node package manager
+Previously, we learned about the basics of setting up your development environment. Today on Day 12, we will further look into the Node package manager, including a more comprehensive guide on NPM and other alternatives, as well as a command cheatsheet to supercharge your productivity.
 
+- [An introduction to the NPM package manager](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
+- [npm vs yarn vs pnpm vs bun commands cheatsheet - DEV Community](https://dev.to/equiman/npm-vs-yarn-vs-pnpm-commands-cheatsheet-3el8)
 
 
 
