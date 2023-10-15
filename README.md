@@ -92,4 +92,8 @@ So far, we have learned about different important topics in open source, from ve
 - [Coding Standards and Best Practices to Follow | BrowserStack](https://www.browserstack.com/guide/coding-standards-best-practices)
 - [How To Write Maintainable and Readable Code - DEV Community](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
 
+### Day 15: Writing maintainable codes (II)
+On Day 15, we will continue the topic by exploring additional resources that cover the best coding practices. We will be reading materials on writing clean React code as well as implementing clean practices for RESTful APIs.
 
+- [10 Best Practices for Writing Clean React Code](https://www.turing.com/kb/writing-clean-react-code)
+- [Best Practices for Building a Secure and Scalable API | MuleSoft](https://www.mulesoft.com/api-university/best-practices-building-secure-and-scalable-api)
