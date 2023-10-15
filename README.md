@@ -86,5 +86,10 @@ On Day 13, we will explore testing, an essential topic in contributing to open-s
 - [A Beginner's Guide to Unit-testing with Jest - DEV Community](https://dev.to/dsasse07/a-beginner-s-guide-to-unit-testing-with-jest-45cc)
 - [next-auth/packages/adapter-drizzle at main · nextauthjs/next-auth](https://github.com/nextauthjs/next-auth/tree/main/packages/adapter-drizzle)
 
+### Day 14: Writing maintainable codes (I)
+So far, we have learned about different important topics in open source, from version control to environment setup. Today we will take a step by and learn more about how to write clean and maintainable code, which would be very valuable in open source collaboration.
+
+- [Coding Standards and Best Practices to Follow | BrowserStack](https://www.browserstack.com/guide/coding-standards-best-practices)
+- [How To Write Maintainable and Readable Code - DEV Community](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
 
 
