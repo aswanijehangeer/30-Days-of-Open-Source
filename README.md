@@ -97,3 +97,9 @@ On Day 15, we will continue the topic by exploring additional resources that cov
 
 - [10 Best Practices for Writing Clean React Code](https://www.turing.com/kb/writing-clean-react-code)
 - [Best Practices for Building a Secure and Scalable API | MuleSoft](https://www.mulesoft.com/api-university/best-practices-building-secure-and-scalable-api)
+
+### Day 16: How to understand large code base (I)
+On Day 16, we will move on to learn more about how to understand large code bases in open-source projects. We will be reading a blog published on FreeCodeCamp first, which offers a brief guide on working with a large legacy codebase, while the second resource emphasizes the importance of focusing on the specific parts of the codebase you are working on to work effectively.
+
+- [How to Work With a Large Legacy Codebase Like a Pro](https://www.freecodecamp.org/news/how-to-work-with-a-large-legacy-codebase/)
+- [Work effectively on a large codebase](https://medium.com/@zhaojunzhang/work-effectively-on-a-large-codebase-dc0e2242558a)
