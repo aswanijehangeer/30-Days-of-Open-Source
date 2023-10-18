@@ -109,3 +109,9 @@ On Day 17, we will explore more methods for easily understanding large codebases
 
 - [7 ways to get acquainted with a new codebase | FireHydrant](https://firehydrant.com/blog/7-ways-to-get-acquainted-with-a-new-codebase/)
 - [8 Tips for Dealing With Large React Codebases](https://medium.com/@l_e/8-tips-for-dealing-with-large-react-codebases-aed6235500a4)
+
+### Day 18: What defines a good Pull Request
+Now you are ready for your code to be reviewed. In order to not let your work be wasted, you have to let maintainers easily understand your work (so that the chance of your PR getting merged would increase). A good pull request can provide enough context and information, and thus speed up the process of code review.
+
+- [Semantic pull request | Apache Pulsar](https://pulsar.apache.org/contribute/develop-semantic-title/)
+- [next.js/.github/pull_request_template.md at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/blob/canary/.github/pull_request_template.md?plain=1)
