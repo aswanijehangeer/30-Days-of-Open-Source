@@ -115,3 +115,9 @@ Now you are ready for your code to be reviewed. In order to not let your work be
 
 - [Semantic pull request | Apache Pulsar](https://pulsar.apache.org/contribute/develop-semantic-title/)
 - [next.js/.github/pull_request_template.md at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/blob/canary/.github/pull_request_template.md?plain=1)
+
+### Day 19: Day 19: Final steps before getting merged
+A practical guide on merging conflicts and creating PR. You have to ensure everything is good: no conflicts with upstream, test cases are passing, clear PR context, etc. Then you can pray for your PR to get approved and merged.
+
+- [you are Fixing your Merge Conflicts The Wrong Way in VSCode](https://www.youtube.com/watch?v=KuB6hYoLozw)
+- [Creating a pull request from a fork - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
