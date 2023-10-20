@@ -121,3 +121,9 @@ A practical guide on merging conflicts and creating PR. You have to ensure every
 
 - [you are Fixing your Merge Conflicts The Wrong Way in VSCode](https://www.youtube.com/watch?v=KuB6hYoLozw)
 - [Creating a pull request from a fork - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+### Day 20: Localization in Open Source
+On Day 20, we will explore other format of open source contributions. Localisation, which means bringing a global software project to a more localized usage through translation, is another popular form of contribution. We will be looking into how to make localization contribution in open source with a blog published on dev.to and a real world project called Anytype.
+
+- [Crowdin Language Services: The Fastest Way to Make Your Product Multilingual - DEV Community](https://dev.to/crowdin/crowdin-language-services-the-fastest-way-to-make-your-product-multilingual-20c9)
+- [🌍 Localization Launch · anyproto · Discussion #45](https://github.com/orgs/anyproto/discussions/45)
