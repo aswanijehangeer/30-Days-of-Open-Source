@@ -127,3 +127,9 @@ On Day 20, we will explore other format of open source contributions. Localisati
 
 - [Crowdin Language Services: The Fastest Way to Make Your Product Multilingual - DEV Community](https://dev.to/crowdin/crowdin-language-services-the-fastest-way-to-make-your-product-multilingual-20c9)
 - [🌍 Localization Launch · anyproto · Discussion #45](https://github.com/orgs/anyproto/discussions/45)
+
+### Day 21: Lesson Learned from Open Source
+On Day 21, we can learn valuable lessons from two resources. We will start by reading the an article that explains how open source software (OSS) solves real-world problems, offering flexibility, cost-effectiveness, and innovation. We will also read a Medium blog that highlights key takeaways from the Clean Code book, providing practical insights for developers. Both resources offer valuable knowledge for your journey.
+
+- [Real-World Problems Being Solved By Open Source - DZone](https://dzone.com/articles/real-world-problems-being-solved-by-open-source)
+- [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
