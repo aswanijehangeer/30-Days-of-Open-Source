@@ -139,3 +139,9 @@ Just like an organization and projects, leadership and management is a key to a 
 
 - [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
 - [Introducing Plane: Simple, Extensible, Open-Source Project Management Tool | by Vihar Kurama | Better Programming](https://betterprogramming.pub/introducing-plane-simple-extensible-open-source-project-management-tool-d56dfac886ed)
+
+### Day 23: Building a Successful Open Source Project
+On Day 23, we explore the different ways to contribute to open source projects without writing code, as discussed in the first resource. The second resource provides insights into various funding options for open source projects, including sponsorships, grants, and crowdfunding.
+
+- [8 non-code ways to contribute to open source | Opensource.com](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)
+- [nayafia/lemonade-stand: A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
