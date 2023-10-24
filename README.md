@@ -123,13 +123,19 @@ A practical guide on merging conflicts and creating PR. You have to ensure every
 - [Creating a pull request from a fork - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 ### Day 20: Localization in Open Source
-On Day 20, we will explore other format of open source contributions. Localisation, which means bringing a global software project to a more localized usage through translation, is another popular form of contribution. We will be looking into how to make localization contribution in open source with a blog published on dev.to and a real world project called Anytype.
+On Day 20, we will explore another format of open-source contributions. Localization, which means bringing a global software project to a more localized usage through translation, is another popular form of contribution. We will be looking into how to make localization contributions in open source with a blog published on dev.to and a real-world project called Anytype.
 
 - [Crowdin Language Services: The Fastest Way to Make Your Product Multilingual - DEV Community](https://dev.to/crowdin/crowdin-language-services-the-fastest-way-to-make-your-product-multilingual-20c9)
-- [🌍 Localization Launch · anyproto · Discussion #45](https://github.com/orgs/anyproto/discussions/45)
+- [🌍 Localization Launch · any proto · Discussion #45](https://github.com/orgs/anyproto/discussions/45)
 
 ### Day 21: Lesson Learned from Open Source
-On Day 21, we can learn valuable lessons from two resources. We will start by reading the an article that explains how open source software (OSS) solves real-world problems, offering flexibility, cost-effectiveness, and innovation. We will also read a Medium blog that highlights key takeaways from the Clean Code book, providing practical insights for developers. Both resources offer valuable knowledge for your journey.
+On Day 21, we can learn valuable lessons from two resources. We will start by reading the article that explains how open-source software (OSS) solves real-world problems, offering flexibility, cost-effectiveness, and innovation. We will also read a Medium blog that highlights key takeaways from the Clean Code book, providing practical insights for developers. Both resources offer valuable knowledge for your journey.
 
 - [Real-World Problems Being Solved By Open Source - DZone](https://dzone.com/articles/real-world-problems-being-solved-by-open-source)
-- [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+- [Lessons learned from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+
+### Day 22: Leading and Managing an open-source project
+Just like an organization and projects, leadership and management is a key to a successful Open Source project. On Day 22, we will learn more about it by reading a blog from Linux Foundation that highlighted the importance of leadership teams and also another blog on Medium which introduced Plane, an open-source project management tool.
+
+- [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
+- [Introducing Plane: Simple, Extensible, Open-Source Project Management Tool | by Vihar Kurama | Better Programming](https://betterprogramming.pub/introducing-plane-simple-extensible-open-source-project-management-tool-d56dfac886ed)
