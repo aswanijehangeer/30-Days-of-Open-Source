@@ -141,7 +141,13 @@ Just like an organization and projects, leadership and management is a key to a 
 - [Introducing Plane: Simple, Extensible, Open-Source Project Management Tool | by Vihar Kurama | Better Programming](https://betterprogramming.pub/introducing-plane-simple-extensible-open-source-project-management-tool-d56dfac886ed)
 
 ### Day 23: Building a Successful Open Source Project
-On Day 23, we explore the different ways to contribute to open source projects without writing code, as discussed in the first resource. The second resource provides insights into various funding options for open source projects, including sponsorships, grants, and crowdfunding.
+On Day 23, we explored the different ways to contribute to open-source projects without writing code, as discussed in the first resource. The second resource provides insights into various funding options for open-source projects, including sponsorships, grants, and crowdfunding.
 
 - [8 non-code ways to contribute to open source | Opensource.com](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)
 - [nayafia/lemonade-stand: A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
+
+### Day 24: Documentation as an Open-Source Practice
+Today, on Day 24, we dive into the importance of proper documentation in open-source projects. In a blog by DigitalOcean, we discover a comprehensive guide on how to write documentation for open-source software. Additionally, we explore a markdown cheatsheet on GitHub, which provides helpful tips for improving project documentation. These resources offer valuable insights for understanding why open-source documentation matters and how to enhance it effectively.
+
+- [Documentation as an Open Source Practice](https://www.digitalocean.com/blog/documentation-as-an-open-source-practice)
+- [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
