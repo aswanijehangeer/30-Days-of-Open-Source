@@ -151,3 +151,9 @@ Today, on Day 24, we dive into the importance of proper documentation in open-so
 
 - [Documentation as an Open Source Practice](https://www.digitalocean.com/blog/documentation-as-an-open-source-practice)
 - [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Day 25: Evolution of Open Source
+On Day 25, let's explore the importance of open-source in the world of technology. We can learn a lot from the evolution of open-source software. In a blog by FreeCodeCamp, we get a brief history of open-source, understanding how it has shaped the tech industry. If you want to dive deeper, Wikipedia provides a comprehensive article on the history of free and open-source software. These resources give us insights into the power and significance of open source in driving innovation and collaboration.
+
+ - [A Brief History of Open Source](https://www.freecodecamp.org/news/brief-history-of-open-source/)
+ - [History of free and open-source software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
