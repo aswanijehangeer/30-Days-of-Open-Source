@@ -170,6 +170,11 @@ On Day 27, let’s explore the significance of open source and why it holds imme
 - [A Business Case for Open Source – Why You Should Contribute to the Open Source Community](https://www.freecodecamp.org/news/a-business-case-for-open-source/)
 - [Top Open Source Companies 2023 | Datamation](https://www.datamation.com/open-source/35-top-open-source-companies/)
 
+### Day 28: Learn in Public
+Today on Day 28, we will explore concepts of learning in public and its importance. We can learn about how learning in public helps maintain consistency and accountability in our learning journey from a great Github repo. Also, we will be watching a YouTube video that feature a conversation with Francesco Ciulla.
+
+- [Learn In Public - 7 opinions for your tech career](https://gist.github.com/swyxio/9720bd4a30606ca3ffb8d407113c0fe5)
+- [How to Find Remote Jobs While Learning in Public With @francescociulla](https://www.youtube.com/watch?v=3YafUJUqj6s)
 
 
 
