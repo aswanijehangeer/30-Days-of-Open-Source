@@ -176,7 +176,10 @@ Today on Day 28, we will explore concepts of learning in public and its importan
 - [Learn In Public - 7 opinions for your tech career](https://gist.github.com/swyxio/9720bd4a30606ca3ffb8d407113c0fe5)
 - [How to Find Remote Jobs While Learning in Public With @francescociulla](https://www.youtube.com/watch?v=3YafUJUqj6s)
 
-
+### Day 29: Pros and Cons of Open Source
+On Day 29, we will explore the positive and negative sides of open source. We can learn about the advantages and disadvantages of open-source software in a blog by Megha Verma. After that, we will discover the importance of addressing open-source vulnerabilities and their remedies.
+ - [Advantages & Disadvantages of Open Source Software, Explained!](https://medium.com/quick-code/advantages-disadvantages-of-open-source-software-explained-2fd35acd413)
+ - [Open source vulnerability: Detection and Remediation – Reflectiz](https://www.reflectiz.com/blog/open-source-vulnerability/)
 
 
 
