@@ -181,9 +181,11 @@ On Day 29, we will explore the positive and negative sides of open source. We ca
  - [Advantages & Disadvantages of Open Source Software, Explained!](https://medium.com/quick-code/advantages-disadvantages-of-open-source-software-explained-2fd35acd413)
  - [Open source vulnerability: Detection and Remediation – Reflectiz](https://www.reflectiz.com/blog/open-source-vulnerability/)
 
+### Day 30: Free discussion
+Finally, this is the last day of the challenge. You have done great and gained a lot more knowledge on Open Source than you previously had before. Today, we don’t have a specific topic to learn on, rather than that we have prepared two resources that would spark a lot of inspiration for you. Read them and comment your thoughts and learnings on it!
 
-
-
+ - [Bill Gates gets real about free software | InfoWorld](https://www.infoworld.com/article/3042247/bill-gates-gets-real-about-free-software.html)
+ - [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
 
 
 
